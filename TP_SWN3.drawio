@@ -36,7 +36,7 @@
           <mxGeometry height="53" width="78" x="240" y="300" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-2" parent="1" style="strokeColor=#ffffff;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.switches.workgroup_switch;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="50" width="101" x="220" y="480" as="geometry" />
+          <mxGeometry height="50" width="101" x="228.5" y="460" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-3" edge="1" parent="1" source="q4CD_Zl_QloJRXTw3_pd-2" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;width=4;" target="q4CD_Zl_QloJRXTw3_pd-1" value="">
           <mxGeometry relative="1" width="100" x="0.3064" as="geometry">
@@ -52,10 +52,10 @@
           <mxGeometry height="30" width="60" x="700" y="397" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R1" vertex="1">
-          <mxGeometry height="30" width="60" x="150" y="310" as="geometry" />
+          <mxGeometry height="30" width="60" x="166" y="311.5" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Sw0" vertex="1">
-          <mxGeometry height="30" width="60" x="160" y="490" as="geometry" />
+          <mxGeometry height="30" width="60" x="150" y="470" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-8" parent="1" style="whiteSpace=wrap;html=1;" value="Liaison WAN vers FAI" vertex="1">
           <mxGeometry height="20" width="210" x="560" y="230" as="geometry" />
@@ -67,10 +67,10 @@
           <mxGeometry height="70" width="78" x="290.5" y="630" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-11" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.upc;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="86" width="91" x="560" y="550" as="geometry" />
+          <mxGeometry height="86" width="91" x="539" y="550" as="geometry" />
         </mxCell>
         <mxCell id="q4CD_Zl_QloJRXTw3_pd-12" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;labelPerimeter=1;" value="" vertex="1">
-          <mxGeometry height="70" width="78" x="700" y="566" as="geometry" />
+          <mxGeometry height="70" width="78" x="710" y="566" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
