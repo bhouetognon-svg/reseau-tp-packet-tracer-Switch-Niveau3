@@ -73,13 +73,13 @@
         <mxCell id="qpK33iMqL0xZg_xuvsYD-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAN" vertex="1">
           <mxGeometry height="30" width="60" x="100" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="qpK33iMqL0xZg_xuvsYD-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN" vertex="1">
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN 10" vertex="1">
           <mxGeometry height="30" width="60" x="290" y="710" as="geometry" />
         </mxCell>
         <mxCell id="qpK33iMqL0xZg_xuvsYD-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LAN" vertex="1">
           <mxGeometry height="30" width="60" x="539" y="650" as="geometry" />
         </mxCell>
-        <mxCell id="qpK33iMqL0xZg_xuvsYD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN" vertex="1">
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VLAN 20" vertex="1">
           <mxGeometry height="30" width="60" x="700" y="650" as="geometry" />
         </mxCell>
         <mxCell id="qpK33iMqL0xZg_xuvsYD-6" edge="1" parent="1" source="q4CD_Zl_QloJRXTw3_pd-9" style="shape=link;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.802;exitY=0.256;exitDx=0;exitDy=0;exitPerimeter=0;width=4;entryX=0.297;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" target="q4CD_Zl_QloJRXTw3_pd-2" value="">
@@ -117,8 +117,14 @@
             <mxPoint x="390" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpK33iMqL0xZg_xuvsYD-13" parent="1" style="whiteSpace=wrap;html=1;" value="Wan Réseau" vertex="1">
-          <mxGeometry height="20" width="210" x="360" y="490" as="geometry" />
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-13" parent="1" style="whiteSpace=wrap;html=1;" value="WAN Réseau" vertex="1">
+          <mxGeometry height="20" width="210" x="360" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-14" parent="1" style="whiteSpace=wrap;html=1;" value="LAN 1 - VLAN 10 :&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="210" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-15" parent="1" style="whiteSpace=wrap;html=1;" value="LAN 2 - VLAN 20 :&amp;nbsp;" vertex="1">
+          <mxGeometry height="20" width="210" x="570" y="690" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
