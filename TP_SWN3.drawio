@@ -117,8 +117,8 @@
             <mxPoint x="390" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qpK33iMqL0xZg_xuvsYD-13" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="20" width="210" x="368.5" y="490" as="geometry" />
+        <mxCell id="qpK33iMqL0xZg_xuvsYD-13" parent="1" style="whiteSpace=wrap;html=1;" value="Wan Réseau" vertex="1">
+          <mxGeometry height="20" width="210" x="360" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
